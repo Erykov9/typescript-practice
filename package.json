@@ -1,0 +1,23 @@
+{
+  "name": "tspractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "inquirer": "^8.2.4",
+    "nodemon": "^2.0.20",
+    "ts-node": "^8.10.2",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "consola": "^2.15.3"
+  }
+}
